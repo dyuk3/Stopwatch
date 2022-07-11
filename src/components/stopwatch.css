@@ -1,0 +1,31 @@
+.stopwatch {
+  display: flex;
+  width: 23vw;
+  height: 55vh;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border: 22px solid gray;
+}
+
+.timer {
+  font-size: 50px;
+}
+.btn {
+  border: 2px solid rebeccapurple;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.btn-one {
+  background-color: rebeccapurple;
+  color: white;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: goldenrod;
+}
